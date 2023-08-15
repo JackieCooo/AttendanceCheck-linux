@@ -7,11 +7,11 @@
 
 ## 前言 Preamble
 
-这个项目是基于我之前的一个同名项目改编而来。  
+这个项目是基于我之前的一个同名项目改编而来，原项目地址[链接](https://github.com/JackieCooo/AttendanceCheck)。  
 通过将原项目改编成C++项目，可以使其在嵌入式Linux设备中运行。  
 > 虽然该项目在功能上与原项目一致，但在软件架构上进行了部分优化，因此运行更稳定。  
 
-This project is based on an adaptation of a previous project of mine with the same name.  
+This project is based on an adaptation of a previous project of mine with the same name, original project [link](https://github.com/JackieCooo/AttendanceCheck).  
 By adapting the original project into a C++ project, it can be made to run in an embedded Linux device.  
 > Although this project is functionally the same as the original project, the software architecture has been partially optimized so that it runs more stably.
 
